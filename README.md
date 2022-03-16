@@ -1,12 +1,12 @@
-# Nombre final del curso
+# React avanzado 2
 
-Este es el repositorio del curso de LinkedIn Learning [nombre del curso]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning [React avanzado 2]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Aprende React a un nivel avanzado dominando funcionalidades que te permitirán mejorar el rendimiento, el manejo y el flujo de datos de una aplicación web creada con esta librería de JavaScript. Durante el contenido del curso, explorarás características como Hooks o React Suspense, también aprenderás a generar y reutilizar patrones de código para facilitar el mantenimiento de tu aplicación, así como técnicas y buenas prácticas para escribir pruebas unitarias al código de tu solución en React.
 
 ## Instrucciones
 
@@ -26,9 +26,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+Sergio Brito
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sergio-brito).
 
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
