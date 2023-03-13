@@ -1,6 +1,6 @@
 # React avanzado 2
 
-Este es el repositorio del curso de LinkedIn Learning `[React avanzado 2]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `React avanzado 2`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
@@ -31,4 +31,4 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sergio-brito).
 
 [lil-course-url]: https://www.linkedin.com/learning/react-avanzado-2/react-avanzado-mejorando-tu-codigo-y-tus-herramientas-de-trabajo
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHhk1WEx8P4zQ/learning-public-crop_675_1200/0/1671460291921?e=2147483647&v=beta&t=Eg5hdbFLI1osJTpUWiPTtPJq32xobCloEdbvCgmKRJg
