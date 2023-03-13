@@ -1,94 +1,34 @@
+# React avanzado 2
 
+Este es el repositorio del curso de LinkedIn Learning `React avanzado 2`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-# Bulldogs
+![Nombre completo del curso][lil-thumbnail-url] 
 
-This project was generated using [Nx](https://nx.dev).
+Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
+Aprende React a un nivel avanzado dominando funcionalidades que te permitirán mejorar el rendimiento, el manejo y el flujo de datos de una aplicación web creada con esta librería de JavaScript. Durante el contenido del curso, explorarás características como Hooks o React Suspense, también aprenderás a generar y reutilizar patrones de código para facilitar el mantenimiento de tu aplicación, así como técnicas y buenas prácticas para escribir pruebas unitarias al código de tu solución en React.
 
-🔎 **Smart, Fast and Extensible Build System**
+## Instrucciones
 
-## Adding capabilities to your workspace
+Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
 
-Nx supports many plugins which add capabilities for developing different types of applications and different tools.
+## Ramas
 
-These capabilities include generating applications, libraries, etc as well as the devtools to test, and build projects as well.
+Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
 
-Below are our core plugins:
+## Instalación
 
-- [React](https://reactjs.org)
-  - `npm install --save-dev @nrwl/react`
-- Web (no framework frontends)
-  - `npm install --save-dev @nrwl/web`
-- [Angular](https://angular.io)
-  - `npm install --save-dev @nrwl/angular`
-- [Nest](https://nestjs.com)
-  - `npm install --save-dev @nrwl/nest`
-- [Express](https://expressjs.com)
-  - `npm install --save-dev @nrwl/express`
-- [Node](https://nodejs.org)
-  - `npm install --save-dev @nrwl/node`
+1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
+   - [software]
 
-There are also many [community plugins](https://nx.dev/community) you could add.
+2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
+3. [Instrucciones específicas del curso].
 
-## Generate an application
+### Docente
 
-Run `nx g @nrwl/react:app my-app` to generate an application.
+**Sergio Brito**
 
-> You can use any of the plugins above to generate applications as well.
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/sergio-brito).
 
-When using Nx, you can create multiple applications and libraries in the same workspace.
-
-## Generate a library
-
-Run `nx g @nrwl/react:lib my-lib` to generate a library.
-
-> You can also use any of the plugins above to generate libraries as well.
-
-Libraries are shareable across libraries and applications. They can be imported from `@bulldogs/mylib`.
-
-## Development server
-
-Run `nx serve my-app` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `nx g @nrwl/react:component my-component --project=my-app` to generate a new component.
-
-## Build
-
-Run `nx build my-app` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `nx test my-app` to execute the unit tests via [Jest](https://jestjs.io).
-
-Run `nx affected:test` to execute the unit tests affected by a change.
-
-## Running end-to-end tests
-
-Run `nx e2e my-app` to execute the end-to-end tests via [Cypress](https://www.cypress.io).
-
-Run `nx affected:e2e` to execute the end-to-end tests affected by a change.
-
-## Understand your workspace
-
-Run `nx graph` to see a diagram of the dependencies of your projects.
-
-## Further help
-
-Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
-
-## ☁ Nx Cloud
-
-### Distributed Computation Caching & Distributed Task Execution
-
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-cloud-card.png"></p>
-
-Nx Cloud pairs with Nx in order to enable you to build and test code more rapidly, by up to 10 times. Even teams that are new to Nx can connect to Nx Cloud and start saving time instantly.
-
-Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
-
-Visit [Nx Cloud](https://nx.app/) to learn more.
+[lil-course-url]: https://www.linkedin.com/learning/react-avanzado-2/react-avanzado-mejorando-tu-codigo-y-tus-herramientas-de-trabajo
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQHhk1WEx8P4zQ/learning-public-crop_675_1200/0/1671460291921?e=2147483647&v=beta&t=Eg5hdbFLI1osJTpUWiPTtPJq32xobCloEdbvCgmKRJg
